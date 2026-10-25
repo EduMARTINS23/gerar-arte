@@ -1,0 +1,10 @@
+# Dados de uso nunca entram no repositório
+.env
+config.env
+*.png
+*.jpg
+*.jpeg
+*.webp
+clientes/
+criativos/
+.DS_Store
